@@ -1,5 +1,5 @@
 +++
-title = "VISCA BARCA"
+title = "Barca Season 24/25"
 date = "2025-02-21"
 draft = false
 pinned = true
