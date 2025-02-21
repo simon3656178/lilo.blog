@@ -3,7 +3,7 @@ title = "Barca Season 24/25"
 date = "2025-02-21"
 draft = false
 pinned = true
-image = "oip.jpg"
+image = "27-lamine-yamal-fc-barcelona-during-la-550nw-14455666u.jpg"
 description = "Barca Season 2024/2025"
 +++
 
